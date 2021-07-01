@@ -2,6 +2,8 @@
 
 - I am interested in Full Stack Web Development
 
+- Most recently completed project:  https://art-auction-crypto.web.app/
+
 - Contact info: 
 -   email:  sgdevaney@ucdavis.edu
 -   phone:  1-916-747-3059
