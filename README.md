@@ -2,7 +2,8 @@
 
 - I am interested in Full Stack Web Development
 
-- Most recently completed project:  https://art-auction-crypto.web.app/
+- Most recently completed project deployed on Heroku:  https://quiet-thicket-87706.herokuapp.com/
+- Repo here: https://github.com/sean916/fear-not-art-auction
 
 - Contact info: 
 -   email:  sgdevaney@ucdavis.edu
