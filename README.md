@@ -5,6 +5,9 @@
 - Most recently completed project deployed on Heroku:  https://quiet-thicket-87706.herokuapp.com/
 - Repo here: https://github.com/sean916/fear-not-art-auction
 
+- Another example of a recent project deployed on Firebase: https://capitamortgagecredit.web.app
+- Repo here: https://github.com/sean916/capita-mortgage-credit
+
 - Contact info: 
 -   email:  sgdevaney@ucdavis.edu
 -   phone:  1-916-747-3059
